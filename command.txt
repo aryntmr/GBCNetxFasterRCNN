@@ -1,0 +1,3 @@
+python test.py --meta_file "C:\Users\arynt\OneDrive\Desktop\IIT Delhi\sample_data\bbox_annot.json" --label_file "C:\Users\arynt\OneDrive\Desktop\IIT Delhi\sample_data\test_2.txt" --model_dir "C:\Users\arynt\OneDrive\Desktop\IIT Delhi\Faster-RCNN\Faster-RCNN\weights" --img_dir "C:\Users\arynt\OneDrive\Desktop\IIT Delhi\sample_data\images"
+
+python fasterrcnn_test.py --model_dir "C:\Users\arynt\OneDrive\Desktop\IIT Delhi\Faster-RCNN\Faster-RCNN\weights"
